@@ -5,3 +5,6 @@ and will help with any trials & errors we find while testing the betas for each 
 
 Website link:
 https://sites.google.com/view/adenixsoftwarenpsp/homeadenosineos
+
+Tip Jar:
+https://cash.app/$AdenixSNPSP
