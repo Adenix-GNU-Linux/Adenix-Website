@@ -4,7 +4,7 @@ We always strive to let our users know about updates to the progress of the deve
 and will help with any trials & errors we find while testing the betas for each new version.
 
 Website link:
-https://sites.google.com/view/adenixsoftwarenpsp/homeadenosineos
+https://sites.google.com/view/adenix-gnu-linux/homeadenosineos
 
 Tip Jar:
 https://cash.app/$AdenixSNPSP
